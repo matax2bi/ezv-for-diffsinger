@@ -2,7 +2,11 @@
 
 **English** | [한국어](README.ko.md)
 
-[C2-C8.wav](https://github.com/user-attachments/files/30867310/C2-C8.wav)
+
+
+https://github.com/user-attachments/assets/d184da57-db1c-432c-9806-a47f1c612ab2
+
+
 
 A **pitch-controllable neural vocoder** for OpenUtau + DiffSinger voicebanks.
 44.1 kHz / hop 512 / 128-bin mel — drop-in compatible with the standard
