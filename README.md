@@ -1,5 +1,7 @@
 # ezv_for_diffsinger (BETA)
 
+**English** | [한국어](README.ko.md)
+
 A **pitch-controllable neural vocoder** for OpenUtau + DiffSinger voicebanks.
 44.1 kHz / hop 512 / 128-bin mel — drop-in compatible with the standard
 DiffSinger vocoder interface.

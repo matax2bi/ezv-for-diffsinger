@@ -1,5 +1,7 @@
 # ezv_for_diffsinger (베타)
 
+[English](README.md) | **한국어**
+
 OpenUtau + DiffSinger 보이스뱅크용 **피치 제어(PC) 뉴럴 보코더**입니다.
 44.1kHz / hop 512 / 128빈 mel — 표준 DiffSinger 보코더 인터페이스에 그대로
 꽂아 쓸 수 있어요.
