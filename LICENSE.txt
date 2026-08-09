@@ -1,0 +1,65 @@
+ezv_for_diffsinger — License / 이용약관
+=====================================================================
+Copyright (c) 2026 TABI. All rights reserved.
+
+[English]
+
+This software (the "Vocoder", including the ONNX model file, configuration
+files, and documentation) is provided as freeware. The Vocoder itself may
+not be commercialized; audio rendered with it is yours.
+
+You MAY:
+  - Download and use the Vocoder free of charge with OpenUtau/DiffSinger
+    voicebanks.
+  - Use, publish, and monetize audio/music rendered with the Vocoder,
+    INCLUDING for commercial purposes, royalty-free. Credit is
+    appreciated but not required.
+
+You MAY NOT:
+  - Commercialize the Vocoder itself: selling it, bundling it into any
+    paid product or voicebank, offering it as part of a paid service
+    (e.g. hosted rendering), or charging for access to it.
+  - Redistribute, re-upload, mirror, bundle, or include the Vocoder (in
+    whole or in part) in any other software, voicebank package, or
+    distribution — free or paid. Always link to the official download
+    page instead.
+  - Modify, convert, quantize, fine-tune, or create derivative works of
+    the Vocoder or its model weights.
+  - Extract, reverse-engineer, or use the model weights (in whole or in
+    part) for training, distilling, or initializing other models.
+
+This is a BETA release. The Vocoder is planned to become part of the
+EZSing project; terms of future versions may differ.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
+EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---------------------------------------------------------------------
+
+[한국어]
+
+본 소프트웨어("보코더" — ONNX 모델 파일, 설정 파일, 문서 포함)는
+프리웨어로 제공됩니다. 보코더 자체의 상업화는 금지되며, 보코더로 렌더한
+음원은 사용자의 것입니다.
+
+허용:
+  - OpenUtau/DiffSinger 보이스뱅크와 함께 무료 사용.
+  - 보코더로 렌더한 음원의 이용·공개·수익화 — **상업적 이용 포함**,
+    로열티 프리. 크레딧 표기는 감사하지만 필수는 아닙니다.
+
+금지:
+  - 보코더 자체의 상업화: 판매, 유료 제품/보이스뱅크에의 동봉, 유료
+    서비스(예: 호스팅 렌더링)의 일부로 제공, 접근에 대한 과금 등.
+  - 재배포, 재업로드, 미러링, 타 소프트웨어/보이스뱅크 패키지에의 동봉
+    (전체 또는 일부, 유·무료 불문). 공유는 반드시 공식 다운로드 링크로
+    해주세요.
+  - 수정, 포맷 변환, 양자화, 파인튜닝 등 파생물 제작.
+  - 모델 가중치의 추출·역공학, 타 모델의 학습/증류/초기화에의 이용
+    (전체 또는 일부).
+
+본 배포는 BETA 버전입니다. 이 보코더는 향후 EZSing 프로젝트의 일부가
+될 예정이며, 이후 버전의 이용약관은 달라질 수 있습니다.
+
+본 소프트웨어는 "있는 그대로" 제공되며 어떠한 보증도 하지 않습니다.
+사용으로 인해 발생하는 손해에 대해 제작자는 책임지지 않습니다.

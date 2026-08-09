@@ -1,0 +1,6 @@
+# 배포 산출물 (릴리즈 첨부로만 올림 — repo 에 커밋 금지)
+*.oudep
+*.zip
+
+# 모델 본체 (대용량 + 재배포 정책상 릴리즈 페이지로만)
+ezv_for_diffsinger/ezv_for_diffsinger.onnx
