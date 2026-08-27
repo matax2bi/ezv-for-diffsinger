@@ -24,8 +24,12 @@ OpenUtau + DiffSinger 보이스뱅크용 **피치 제어(PC) 뉴럴 보코더**�
 
 ## 🎧 데모
 
-- `v2.0_demo.mp4` — 렌더 데모 (**믹싱 포함** 완성본)
-- `v2.0_demo2.mp4` — 같은 곡의 **보코더 출력 원음** (무가공)
+하이라이트 (30초):
+
+https://github.com/user-attachments/assets/a5e8ec2c-ec98-4c66-97da-95336cd9039b
+
+- [풀 데모 — **믹싱 포함** 완성본](https://github.com/matax2bi/ezv-for-diffsinger/releases/download/v2.0.0/v2.0_demo.mp4)
+- [같은 곡의 **보코더 출력 원음** (무가공)](https://github.com/matax2bi/ezv-for-diffsinger/releases/download/v2.0.0/v2.0_demo2.mp4)
 
 ## v2.0 새 내용 (v1.0 대비)
 

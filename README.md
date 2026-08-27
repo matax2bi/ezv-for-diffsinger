@@ -27,8 +27,12 @@ DiffSinger vocoder interface.
 
 ## 🎧 Demo
 
-- `v2.0_demo.mp4` — render demo (**with mixing**)
-- `v2.0_demo2.mp4` — same song, **raw vocoder output** (unprocessed)
+Highlight (30s):
+
+https://github.com/user-attachments/assets/a5e8ec2c-ec98-4c66-97da-95336cd9039b
+
+- [Full demo — **with mixing**](https://github.com/matax2bi/ezv-for-diffsinger/releases/download/v2.0.0/v2.0_demo.mp4)
+- [Same song, **raw vocoder output** (unprocessed)](https://github.com/matax2bi/ezv-for-diffsinger/releases/download/v2.0.0/v2.0_demo2.mp4)
 
 ## New in v2.0 (vs v1.0)
 
