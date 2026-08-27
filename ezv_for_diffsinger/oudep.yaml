@@ -1,4 +1,4 @@
 id: ezv_for_diffsinger
 name: ezv_for_diffsinger
-version: 0.9.0
-description: "ezv_for_diffsinger (BETA) - pitch-controllable DiffSinger vocoder, 44.1kHz/hop512/128bin. Freeware: rendered audio royalty-free incl. commercial; the vocoder itself may not be sold, bundled, redistributed, or modified. (c) 2026 TABI"
+version: 2.0.0
+description: "ezv_for_diffsinger v2.0 - pitch-controllable DiffSinger vocoder (pc-ansf-next), 44.1kHz/hop512/128bin, native DS-grid pipeline. Freeware: rendered audio royalty-free incl. commercial; the vocoder itself may not be sold, bundled, redistributed, or modified. (c) 2026 TABI"

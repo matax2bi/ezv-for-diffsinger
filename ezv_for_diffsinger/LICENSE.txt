@@ -28,8 +28,8 @@ You MAY NOT:
   - Extract, reverse-engineer, or use the model weights (in whole or in
     part) for training, distilling, or initializing other models.
 
-This is a BETA release. The Vocoder is planned to become part of the
-EZSing project; terms of future versions may differ.
+This is a stable release (v2.0). The Vocoder is part of the EZSing
+project; terms of future versions may differ.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
 EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
@@ -58,8 +58,8 @@ LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
   - 모델 가중치의 추출·역공학, 타 모델의 학습/증류/초기화에의 이용
     (전체 또는 일부).
 
-본 배포는 BETA 버전입니다. 이 보코더는 향후 EZSing 프로젝트의 일부가
-될 예정이며, 이후 버전의 이용약관은 달라질 수 있습니다.
+본 배포는 정식 버전(v2.0)입니다. 이 보코더는 EZSing 프로젝트의
+일부이며, 이후 버전의 이용약관은 달라질 수 있습니다.
 
 본 소프트웨어는 "있는 그대로" 제공되며 어떠한 보증도 하지 않습니다.
 사용으로 인해 발생하는 손해에 대해 제작자는 책임지지 않습니다.
